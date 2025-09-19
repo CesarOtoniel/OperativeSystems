@@ -1,0 +1,2 @@
+To run this code , you can execute it with :
+							go run ./ipc.go 
