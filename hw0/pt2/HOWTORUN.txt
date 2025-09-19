@@ -1,0 +1,5 @@
+Use the command:
+		go run stack.go [arg]
+The argument can be normal (pops and pushes without error)
+				    overflow (Pushes beyond the 100 boundary)
+				    underflow(Pushed beyond -1)
