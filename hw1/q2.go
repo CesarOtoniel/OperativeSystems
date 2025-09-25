@@ -1,3 +1,14 @@
+//Prompts used: "Explain how goroutines work"
+//				"How does the code in goroutine flows"
+//				"Does go handle the excecution in all platforms?"
+//				"Check this: <Checks all code for syntax>"
+//				"How do I format time as human readable?"
+//				""
+//				""
+//				""
+//				""
+
+
 package main
 
 import (
